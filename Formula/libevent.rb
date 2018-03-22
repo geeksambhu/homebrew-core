@@ -2,7 +2,7 @@ class Libevent < Formula
   desc "Asynchronous event library"
   homepage "http://libevent.org"
   url "https://github.com/libevent/libevent/archive/release-2.0.21-stable.tar.gz"
-  sha256 "316ddb401745ac5d222d7c529ef1eada12f58f6376a66c1118eee803cb70f83d"
+  sha256 "872b7cdc199ead2edd9f0d1e93b4d900e67d892c014545bd3314b3ae49505eff"
 
   bottle do
     cellar :any
